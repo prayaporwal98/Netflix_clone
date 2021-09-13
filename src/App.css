@@ -1,0 +1,23 @@
+
+
+div .head{
+ 
+  display: inline-block;
+  font-size: 35px;
+  height: 50px;
+  width: 100%;
+  color :red;
+  
+}
+
+button{
+   padding-right: 10px;
+   margin-right: 40px;
+   margin-top: 10px;
+   float: right; 
+  color:white;
+   font-size: 18px;
+   border-radius: 100px;
+  background-color: red;
+  flex: right;
+}
